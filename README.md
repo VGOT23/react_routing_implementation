@@ -1,5 +1,3 @@
-Below is a clean, academic-style **README** suitable for submission as an experiment report.
-Copy this into a `README.md` file in your project root.
 
 ---
 
